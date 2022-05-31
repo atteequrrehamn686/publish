@@ -1,0 +1,5 @@
+1  make any file
+2 then commint you can see the master file
+3 puch file
+4 merging 
+5 confiliet
